@@ -18,19 +18,19 @@ Proxy configuration can be stored for WinHTTP and WinInet in registry, but also 
 
 ## ChangeLog:
 v1.0
--First version of script
+<ul><li>First version of script</li></ul><p>
 v1.3
--Enable network interface selection to run netsh trace and avoid using SMB related interfaces
+<ul><li>Enable network interface selection to run netsh trace and avoid using SMB related interfaces</li></ul><p>
 v1.4
--Add the -List switch to use a custom URI list for connectivity tests
+<ul><li>Add the -List switch to use a custom URI list for connectivity tests</li></ul><p>
 v1.5
--Scan HCI and AKS proxy settings
+<ul><li>Scan HCI and AKS proxy settings</li></ul><p>
 v1.6
--Scan Azure Arc proxy settings
-v1.7:
--Scan MARS proxy settings
-v1.8:
-- Add Get-NetRoute and DNS client cache information
-v1.9:
-- Fix MARS settings config 
+<ul><li>Scan Azure Arc proxy settings</li></ul><p>
+v1.7
+<ul><li>Scan MARS proxy settings</li></ul><p>
+v1.8
+<ul><li>Add Get-NetRoute and DNS client cache information</li></ul><p>
+v1.9
+<ul><li>Fix MARS settings config</li></ul><p>
 
